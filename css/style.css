@@ -1,0 +1,50 @@
+.box{
+	height: 110px;
+}
+.red{
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 62%;
+	height: 150px;
+	background-color: yellow;
+}
+.contact{
+	float: right;
+	width: 38%;
+	height: 150px;
+	background-color: aqua;
+}
+.i{
+	float: left;
+	width: 33.33%;
+	height: 120px;
+}
+.hotpink{
+	background-color: hotpink;
+}
+.tomato{
+	background-color: tomato;
+}
+.yellowgreen{
+	background-color: yellowgreen;
+}
+.f1{
+	float: left;
+	width: 24%;
+	height: 150px;
+	background-color: green;
+}
+.f2{
+	float: right;
+	width: 76%;
+	height: 150px;
+	background-color: purple;
+}
+.black{
+	background-color: black;
+}
